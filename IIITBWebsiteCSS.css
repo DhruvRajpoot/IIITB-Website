@@ -147,6 +147,12 @@ body {
     min-width: 200px;
 }
 
+/* Dropdown inside Quick Links */
+
+#quicklinksnav{
+    min-width: 240px;
+}
+
 /* Dropdown inside Dropdown Settings */
 
 .dropdown2 {
